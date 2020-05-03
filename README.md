@@ -1,2 +1,2 @@
-# jupyter_lab1
 # Jupyter Tutorials
+# 1 Jupyter Mechanics
